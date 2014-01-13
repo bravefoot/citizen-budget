@@ -58,7 +58,7 @@
 }
 
 .wide {
-    width: 1200px;
+    width: 100%;
     margin-right: auto !important;
     margin-left: auto !important;
     float: none !important;
