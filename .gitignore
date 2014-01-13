@@ -1,4 +1,17 @@
-config.py
-config.pyc
-app.wsgi
+*.dat
+
+*.pyc
+
+*.csv
+
+*~
+
+ config.py
+
+
+
+ app.wsgi
+
+static/uploads/*
+
 doc
